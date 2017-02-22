@@ -305,6 +305,12 @@
             "typingsPackageName": "gaea-model",
             "sourceRepoURL": "https://github.com/ascoders/gaea-model",
             "asOfVersion": "0.0.0"
+        },
+        {
+            "libraryName": "mobservable",
+            "typingsPackageName": "mobservable",
+            "sourceRepoURL": "github.com/mweststrate/mobservable",
+            "asOfVersion": "1.2.5"
         }
     ]
 }
